@@ -1,0 +1,840 @@
+2025-04-08 03:35:15,418 -  * Debugger is active!
+2025-04-08 03:35:15,422 -  * Debugger PIN: 127-402-428
+2025-04-08 03:35:16,527 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:35:16,528 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:35:17,746 -  * Debugger is active!
+2025-04-08 03:35:17,750 -  * Debugger PIN: 127-402-428
+2025-04-08 03:35:18,939 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:35:20,059 -  * Debugger is active!
+2025-04-08 03:35:20,062 -  * Debugger PIN: 127-402-428
+2025-04-08 03:36:02,096 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:36:02,096 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:36:02,097 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:36:02,542 -  * Debugger is active!
+2025-04-08 03:36:02,546 -  * Debugger PIN: 127-402-428
+2025-04-08 03:36:04,027 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:36:04,028 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:36:04,914 -  * Debugger is active!
+2025-04-08 03:36:04,918 -  * Debugger PIN: 127-402-428
+2025-04-08 03:36:07,644 - 127.0.0.1 - - [08/Apr/2025 03:36:07] "GET / HTTP/1.1" 200 -
+2025-04-08 03:36:11,425 - Start Recognition button clicked
+2025-04-08 03:36:11,437 - 127.0.0.1 - - [08/Apr/2025 03:36:11] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-08 03:36:11,440 - 127.0.0.1 - - [08/Apr/2025 03:36:11] "GET / HTTP/1.1" 200 -
+2025-04-08 03:38:23,125 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:38:23,670 -  * Debugger is active!
+2025-04-08 03:38:23,674 -  * Debugger PIN: 127-402-428
+2025-04-08 03:38:25,236 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:38:25,238 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:38:26,038 -  * Debugger is active!
+2025-04-08 03:38:26,042 -  * Debugger PIN: 127-402-428
+2025-04-08 03:38:26,496 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:38:27,344 -  * Debugger is active!
+2025-04-08 03:38:27,348 -  * Debugger PIN: 127-402-428
+2025-04-08 03:38:28,445 - 127.0.0.1 - - [08/Apr/2025 03:38:28] "GET / HTTP/1.1" 200 -
+2025-04-08 03:38:29,789 - Start Recognition button clicked
+2025-04-08 03:38:29,809 - 127.0.0.1 - - [08/Apr/2025 03:38:29] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-08 03:38:29,815 - 127.0.0.1 - - [08/Apr/2025 03:38:29] "GET / HTTP/1.1" 200 -
+2025-04-08 03:40:06,052 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:40:06,054 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:40:06,923 -  * Debugger is active!
+2025-04-08 03:40:06,927 -  * Debugger PIN: 127-402-428
+2025-04-08 03:40:10,039 - 127.0.0.1 - - [08/Apr/2025 03:40:10] "GET / HTTP/1.1" 200 -
+2025-04-08 03:40:19,757 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:40:19,757 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:40:20,252 -  * Debugger is active!
+2025-04-08 03:40:20,256 -  * Debugger PIN: 127-402-428
+2025-04-08 03:40:23,047 - 127.0.0.1 - - [08/Apr/2025 03:40:23] "GET / HTTP/1.1" 200 -
+2025-04-08 03:40:31,693 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:40:31,694 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:40:32,578 -  * Debugger is active!
+2025-04-08 03:40:32,583 -  * Debugger PIN: 127-402-428
+2025-04-08 03:42:33,005 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:42:33,015 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:42:33,016 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:42:34,240 -  * Debugger is active!
+2025-04-08 03:42:34,244 -  * Debugger PIN: 127-402-428
+2025-04-08 03:42:34,327 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:42:34,330 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:42:35,585 -  * Debugger is active!
+2025-04-08 03:42:35,589 -  * Debugger PIN: 127-402-428
+2025-04-08 03:42:37,672 - 127.0.0.1 - - [08/Apr/2025 03:42:37] "GET / HTTP/1.1" 200 -
+2025-04-08 03:43:36,596 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:43:36,599 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:43:36,600 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:44:19,777 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-08 03:44:19,777 - [33mPress CTRL+C to quit[0m
+2025-04-08 03:44:19,785 -  * Restarting with watchdog (windowsapi)
+2025-04-08 03:44:20,012 -  * Debugger is active!
+2025-04-08 03:44:20,016 -  * Debugger PIN: 127-402-428
+2025-04-08 03:44:36,357 - 127.0.0.1 - - [08/Apr/2025 03:44:36] "GET / HTTP/1.1" 200 -
+2025-04-08 03:44:41,654 - Start Recognition button clicked
+2025-04-08 03:44:41,669 - 127.0.0.1 - - [08/Apr/2025 03:44:41] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-08 03:44:41,675 - 127.0.0.1 - - [08/Apr/2025 03:44:41] "GET / HTTP/1.1" 200 -
+2025-04-08 03:44:45,341 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:44:45,345 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:44:46,164 -  * Restarting with watchdog (windowsapi)
+2025-04-08 03:44:46,406 -  * Debugger is active!
+2025-04-08 03:44:46,409 -  * Debugger PIN: 127-402-428
+2025-04-08 03:45:19,652 - 127.0.0.1 - - [08/Apr/2025 03:45:19] "GET /about HTTP/1.1" 200 -
+2025-04-08 03:45:23,058 - 127.0.0.1 - - [08/Apr/2025 03:45:23] "GET / HTTP/1.1" 200 -
+2025-04-08 03:45:24,365 - Error reading logs: [Errno 2] No such file or directory: 'attendance_log.txt'
+2025-04-08 03:45:24,366 - 127.0.0.1 - - [08/Apr/2025 03:45:24] "GET /logs HTTP/1.1" 200 -
+2025-04-08 03:45:28,311 - Enroll button clicked
+2025-04-08 03:45:28,333 - 127.0.0.1 - - [08/Apr/2025 03:45:28] "[32mGET /enroll HTTP/1.1[0m" 302 -
+2025-04-08 03:45:28,342 - 127.0.0.1 - - [08/Apr/2025 03:45:28] "GET / HTTP/1.1" 200 -
+2025-04-08 03:45:45,643 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:45:45,644 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:45:46,644 -  * Restarting with watchdog (windowsapi)
+2025-04-08 03:45:46,897 -  * Debugger is active!
+2025-04-08 03:45:46,900 -  * Debugger PIN: 127-402-428
+2025-04-08 03:45:47,011 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:45:47,012 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 03:45:47,949 -  * Restarting with watchdog (windowsapi)
+2025-04-08 03:45:48,202 -  * Debugger is active!
+2025-04-08 03:45:48,205 -  * Debugger PIN: 127-402-428
+2025-04-08 14:55:50,437 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-08 14:55:50,438 - [33mPress CTRL+C to quit[0m
+2025-04-08 14:55:50,454 -  * Restarting with watchdog (windowsapi)
+2025-04-08 14:55:50,660 -  * Debugger is active!
+2025-04-08 14:55:50,669 -  * Debugger PIN: 127-402-428
+2025-04-08 14:56:10,813 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-08 14:56:10,814 - [33mPress CTRL+C to quit[0m
+2025-04-08 14:56:10,827 -  * Restarting with watchdog (windowsapi)
+2025-04-08 14:56:11,180 -  * Debugger is active!
+2025-04-08 14:56:11,187 -  * Debugger PIN: 127-402-428
+2025-04-08 14:56:48,503 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 14:56:48,503 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-08 14:56:49,352 -  * Restarting with watchdog (windowsapi)
+2025-04-08 14:56:49,749 -  * Debugger is active!
+2025-04-08 14:56:49,755 -  * Debugger PIN: 127-402-428
+2025-04-08 15:17:33,006 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-08 15:17:33,007 - [33mPress CTRL+C to quit[0m
+2025-04-08 15:17:33,019 -  * Restarting with watchdog (windowsapi)
+2025-04-08 15:17:33,346 -  * Debugger is active!
+2025-04-08 15:17:33,353 -  * Debugger PIN: 127-402-428
+2025-04-10 03:37:30,908 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 03:37:30,909 - [33mPress CTRL+C to quit[0m
+2025-04-10 03:37:30,919 -  * Restarting with watchdog (windowsapi)
+2025-04-10 03:37:31,174 -  * Debugger is active!
+2025-04-10 03:37:31,179 -  * Debugger PIN: 280-917-294
+2025-04-10 03:42:57,072 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 03:42:57,072 - [33mPress CTRL+C to quit[0m
+2025-04-10 03:42:57,079 -  * Restarting with watchdog (windowsapi)
+2025-04-10 03:42:57,308 -  * Debugger is active!
+2025-04-10 03:42:57,311 -  * Debugger PIN: 280-917-294
+2025-04-10 03:43:43,053 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\werkzeug\\routing\\map.py', reloading
+2025-04-10 03:43:43,060 - 127.0.0.1 - - [10/Apr/2025 03:43:43] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-04-10 03:43:43,162 - 127.0.0.1 - - [10/Apr/2025 03:43:43] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-04-10 03:43:43,163 - 127.0.0.1 - - [10/Apr/2025 03:43:43] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-04-10 03:43:43,205 - 127.0.0.1 - - [10/Apr/2025 03:43:43] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=1yxZcjZwkVqwQDMZl86Y HTTP/1.1" 200 -
+2025-04-10 03:43:43,302 - 127.0.0.1 - - [10/Apr/2025 03:43:43] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-04-10 03:43:43,482 -  * Restarting with watchdog (windowsapi)
+2025-04-10 03:43:43,722 -  * Debugger is active!
+2025-04-10 03:43:43,726 -  * Debugger PIN: 280-917-294
+2025-04-10 03:46:16,200 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 03:46:16,200 - [33mPress CTRL+C to quit[0m
+2025-04-10 03:46:16,207 -  * Restarting with watchdog (windowsapi)
+2025-04-10 03:46:16,424 -  * Debugger is active!
+2025-04-10 03:46:16,429 -  * Debugger PIN: 280-917-294
+2025-04-10 03:46:48,710 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mysql\\connector\\errors.py', reloading
+2025-04-10 03:46:48,748 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_scalars.py', reloading
+2025-04-10 03:46:49,574 -  * Restarting with watchdog (windowsapi)
+2025-04-10 03:46:49,859 -  * Debugger is active!
+2025-04-10 03:46:49,866 -  * Debugger PIN: 280-917-294
+2025-04-10 03:49:11,249 - 127.0.0.1 - - [10/Apr/2025 03:49:11] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-04-10 03:49:11,353 - 127.0.0.1 - - [10/Apr/2025 03:49:11] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-04-10 03:49:11,354 - 127.0.0.1 - - [10/Apr/2025 03:49:11] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-10 03:49:11,393 - 127.0.0.1 - - [10/Apr/2025 03:49:11] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=OyttnYWT1grOeXb1unZ1 HTTP/1.1" 200 -
+2025-04-10 03:51:57,068 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 03:51:57,068 - [33mPress CTRL+C to quit[0m
+2025-04-10 03:51:57,076 -  * Restarting with watchdog (windowsapi)
+2025-04-10 03:51:57,300 -  * Debugger is active!
+2025-04-10 03:51:57,306 -  * Debugger PIN: 280-917-294
+2025-04-10 03:52:32,448 - 127.0.0.1 - - [10/Apr/2025 03:52:32] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-04-10 03:52:32,725 - 127.0.0.1 - - [10/Apr/2025 03:52:32] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-04-10 03:52:32,726 - 127.0.0.1 - - [10/Apr/2025 03:52:32] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-04-10 03:52:32,778 - 127.0.0.1 - - [10/Apr/2025 03:52:32] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=lTSGpREgbjhWyuDSCaU1 HTTP/1.1" 200 -
+2025-04-10 03:52:32,879 - 127.0.0.1 - - [10/Apr/2025 03:52:32] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-04-10 03:54:04,014 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 03:54:04,666 -  * Restarting with watchdog (windowsapi)
+2025-04-10 03:54:04,975 -  * Debugger is active!
+2025-04-10 03:54:04,980 -  * Debugger PIN: 280-917-294
+2025-04-10 03:54:05,349 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 03:54:05,350 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 03:54:06,062 -  * Restarting with watchdog (windowsapi)
+2025-04-10 03:54:06,292 -  * Debugger is active!
+2025-04-10 03:54:06,298 -  * Debugger PIN: 280-917-294
+2025-04-10 03:54:10,501 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 03:54:10,502 - [33mPress CTRL+C to quit[0m
+2025-04-10 03:54:10,509 -  * Restarting with watchdog (windowsapi)
+2025-04-10 03:54:10,737 -  * Debugger is active!
+2025-04-10 03:54:10,742 -  * Debugger PIN: 280-917-294
+2025-04-10 03:54:23,800 - 127.0.0.1 - - [10/Apr/2025 03:54:23] "GET / HTTP/1.1" 200 -
+2025-04-10 03:54:23,855 - 127.0.0.1 - - [10/Apr/2025 03:54:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 03:54:33,038 - 127.0.0.1 - - [10/Apr/2025 03:54:33] "GET /about HTTP/1.1" 200 -
+2025-04-10 03:54:36,096 - 127.0.0.1 - - [10/Apr/2025 03:54:36] "GET /logs HTTP/1.1" 200 -
+2025-04-10 03:54:39,081 - \U0001f7e2 Streamlit dashboard requested
+2025-04-10 03:54:39,105 - 127.0.0.1 - - [10/Apr/2025 03:54:39] "GET /dashboard HTTP/1.1" 200 -
+2025-04-10 03:54:51,278 - 127.0.0.1 - - [10/Apr/2025 03:54:51] "GET / HTTP/1.1" 200 -
+2025-04-10 03:54:52,786 - \U0001f7e2 Streamlit dashboard requested
+2025-04-10 03:54:52,810 - 127.0.0.1 - - [10/Apr/2025 03:54:52] "GET /dashboard HTTP/1.1" 200 -
+2025-04-10 03:54:56,561 - 127.0.0.1 - - [10/Apr/2025 03:54:56] "GET / HTTP/1.1" 200 -
+2025-04-10 03:54:58,695 - \U0001f7e2 Start Recognition button clicked
+2025-04-10 03:54:58,710 - 127.0.0.1 - - [10/Apr/2025 03:54:58] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-10 03:54:58,716 - 127.0.0.1 - - [10/Apr/2025 03:54:58] "GET / HTTP/1.1" 200 -
+2025-04-10 03:56:59,612 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\webbrowser.py', reloading
+2025-04-10 03:57:00,176 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 03:57:00,177 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 03:57:00,226 -  * Restarting with watchdog (windowsapi)
+2025-04-10 03:57:00,455 -  * Debugger is active!
+2025-04-10 03:57:00,459 -  * Debugger PIN: 280-917-294
+2025-04-10 03:57:25,061 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 03:57:25,062 - [33mPress CTRL+C to quit[0m
+2025-04-10 03:57:25,071 -  * Restarting with watchdog (windowsapi)
+2025-04-10 03:57:25,331 -  * Debugger is active!
+2025-04-10 03:57:25,335 -  * Debugger PIN: 280-917-294
+2025-04-10 03:57:26,536 - 127.0.0.1 - - [10/Apr/2025 03:57:26] "GET / HTTP/1.1" 200 -
+2025-04-10 03:57:26,776 - 127.0.0.1 - - [10/Apr/2025 03:57:26] "GET / HTTP/1.1" 200 -
+2025-04-10 03:57:26,903 - 127.0.0.1 - - [10/Apr/2025 03:57:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 03:57:26,906 - 127.0.0.1 - - [10/Apr/2025 03:57:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 03:57:33,627 - 127.0.0.1 - - [10/Apr/2025 03:57:33] "GET /logs HTTP/1.1" 200 -
+2025-04-10 03:57:56,047 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 03:57:56,049 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 03:57:56,486 -  * Restarting with watchdog (windowsapi)
+2025-04-10 03:57:56,839 -  * Debugger is active!
+2025-04-10 03:57:56,845 -  * Debugger PIN: 280-917-294
+2025-04-10 03:57:58,303 - 127.0.0.1 - - [10/Apr/2025 03:57:58] "GET / HTTP/1.1" 200 -
+2025-04-10 03:57:58,535 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 03:57:58,537 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 03:57:58,914 -  * Restarting with watchdog (windowsapi)
+2025-04-10 03:57:59,148 -  * Debugger is active!
+2025-04-10 03:57:59,152 -  * Debugger PIN: 280-917-294
+2025-04-10 03:58:00,540 - 127.0.0.1 - - [10/Apr/2025 03:58:00] "GET / HTTP/1.1" 200 -
+2025-04-10 03:58:04,585 - 127.0.0.1 - - [10/Apr/2025 03:58:04] "GET / HTTP/1.1" 200 -
+2025-04-10 03:58:05,320 - 127.0.0.1 - - [10/Apr/2025 03:58:05] "GET / HTTP/1.1" 200 -
+2025-04-10 03:58:42,813 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 03:58:42,814 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 03:58:42,814 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 03:58:43,334 -  * Restarting with watchdog (windowsapi)
+2025-04-10 03:58:43,641 -  * Debugger is active!
+2025-04-10 03:58:43,646 -  * Debugger PIN: 280-917-294
+2025-04-10 03:58:45,058 - 127.0.0.1 - - [10/Apr/2025 03:58:45] "GET / HTTP/1.1" 200 -
+2025-04-10 03:59:06,467 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 03:59:06,467 - [33mPress CTRL+C to quit[0m
+2025-04-10 03:59:06,476 -  * Restarting with watchdog (windowsapi)
+2025-04-10 03:59:06,705 -  * Debugger is active!
+2025-04-10 03:59:06,710 -  * Debugger PIN: 280-917-294
+2025-04-10 03:59:08,272 - 127.0.0.1 - - [10/Apr/2025 03:59:08] "GET / HTTP/1.1" 200 -
+2025-04-10 03:59:08,278 - 127.0.0.1 - - [10/Apr/2025 03:59:08] "GET / HTTP/1.1" 200 -
+2025-04-10 03:59:08,483 - 127.0.0.1 - - [10/Apr/2025 03:59:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 03:59:12,639 - 127.0.0.1 - - [10/Apr/2025 03:59:12] "[33mGET /logs HTTP/1.1[0m" 404 -
+2025-04-10 03:59:39,936 - 127.0.0.1 - - [10/Apr/2025 03:59:39] "GET / HTTP/1.1" 200 -
+2025-04-10 04:00:01,377 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:00:01,884 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:00:02,273 -  * Debugger is active!
+2025-04-10 04:00:02,277 -  * Debugger PIN: 280-917-294
+2025-04-10 04:00:03,717 - 127.0.0.1 - - [10/Apr/2025 04:00:03] "GET / HTTP/1.1" 200 -
+2025-04-10 04:00:32,918 - 127.0.0.1 - - [10/Apr/2025 04:00:32] "GET / HTTP/1.1" 200 -
+2025-04-10 04:00:53,937 - \U0001f7e2 Streamlit dashboard requested
+2025-04-10 04:00:53,957 - 127.0.0.1 - - [10/Apr/2025 04:00:53] "GET /dashboard HTTP/1.1" 200 -
+2025-04-10 04:02:22,435 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 04:02:22,436 - [33mPress CTRL+C to quit[0m
+2025-04-10 04:02:22,443 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:02:22,672 -  * Debugger is active!
+2025-04-10 04:02:22,677 -  * Debugger PIN: 280-917-294
+2025-04-10 04:02:23,847 - 127.0.0.1 - - [10/Apr/2025 04:02:23] "GET / HTTP/1.1" 200 -
+2025-04-10 04:02:24,047 - 127.0.0.1 - - [10/Apr/2025 04:02:24] "GET / HTTP/1.1" 200 -
+2025-04-10 04:02:27,085 - \U0001f7e2 Streamlit dashboard requested
+2025-04-10 04:02:27,106 - 127.0.0.1 - - [10/Apr/2025 04:02:27] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+2025-04-10 04:04:03,623 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 04:04:03,623 - [33mPress CTRL+C to quit[0m
+2025-04-10 04:04:03,631 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:04:03,940 -  * Debugger is active!
+2025-04-10 04:04:03,945 -  * Debugger PIN: 280-917-294
+2025-04-10 04:04:05,437 - 127.0.0.1 - - [10/Apr/2025 04:04:05] "GET / HTTP/1.1" 200 -
+2025-04-10 04:04:05,441 - 127.0.0.1 - - [10/Apr/2025 04:04:05] "GET / HTTP/1.1" 200 -
+2025-04-10 04:04:05,678 - 127.0.0.1 - - [10/Apr/2025 04:04:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 04:04:08,336 - \U0001f7e2 Start Recognition button clicked
+2025-04-10 04:04:08,349 - 127.0.0.1 - - [10/Apr/2025 04:04:08] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-10 04:04:08,353 - 127.0.0.1 - - [10/Apr/2025 04:04:08] "GET / HTTP/1.1" 200 -
+2025-04-10 04:04:19,317 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 04:04:19,318 - [33mPress CTRL+C to quit[0m
+2025-04-10 04:04:19,331 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:04:19,555 -  * Debugger is active!
+2025-04-10 04:04:19,559 -  * Debugger PIN: 280-917-294
+2025-04-10 04:04:20,742 - 127.0.0.1 - - [10/Apr/2025 04:04:20] "GET / HTTP/1.1" 200 -
+2025-04-10 04:04:20,939 - 127.0.0.1 - - [10/Apr/2025 04:04:20] "GET / HTTP/1.1" 200 -
+2025-04-10 04:04:22,829 - \U0001f7e2 Streamlit dashboard requested
+2025-04-10 04:04:25,947 - 127.0.0.1 - - [10/Apr/2025 04:04:25] "GET /dashboard HTTP/1.1" 200 -
+2025-04-10 04:04:37,889 - 127.0.0.1 - - [10/Apr/2025 04:04:37] "GET / HTTP/1.1" 200 -
+2025-04-10 04:04:39,813 - 127.0.0.1 - - [10/Apr/2025 04:04:39] "GET /about HTTP/1.1" 200 -
+2025-04-10 04:05:59,778 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 04:05:59,778 - [33mPress CTRL+C to quit[0m
+2025-04-10 04:05:59,785 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:06:00,027 -  * Debugger is active!
+2025-04-10 04:06:00,031 -  * Debugger PIN: 280-917-294
+2025-04-10 04:06:01,232 - 127.0.0.1 - - [10/Apr/2025 04:06:01] "GET / HTTP/1.1" 200 -
+2025-04-10 04:06:01,418 - 127.0.0.1 - - [10/Apr/2025 04:06:01] "GET / HTTP/1.1" 200 -
+2025-04-10 04:06:06,270 - \U0001f7e2 Start Recognition button clicked
+2025-04-10 04:06:06,281 - 127.0.0.1 - - [10/Apr/2025 04:06:06] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-10 04:06:06,286 - 127.0.0.1 - - [10/Apr/2025 04:06:06] "GET / HTTP/1.1" 200 -
+2025-04-10 04:06:17,301 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 04:06:17,302 - [33mPress CTRL+C to quit[0m
+2025-04-10 04:06:17,309 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:06:17,547 -  * Debugger is active!
+2025-04-10 04:06:17,554 -  * Debugger PIN: 280-917-294
+2025-04-10 04:06:18,768 - 127.0.0.1 - - [10/Apr/2025 04:06:18] "GET / HTTP/1.1" 200 -
+2025-04-10 04:06:18,940 - 127.0.0.1 - - [10/Apr/2025 04:06:18] "GET / HTTP/1.1" 200 -
+2025-04-10 04:06:23,745 - \U0001f7e2 Streamlit dashboard requested
+2025-04-10 04:06:26,873 - 127.0.0.1 - - [10/Apr/2025 04:06:26] "GET /dashboard HTTP/1.1" 200 -
+2025-04-10 04:07:34,307 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:07:34,308 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:07:34,308 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:07:34,795 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:07:35,059 -  * Debugger is active!
+2025-04-10 04:07:35,063 -  * Debugger PIN: 280-917-294
+2025-04-10 04:08:01,619 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 04:08:01,619 - [33mPress CTRL+C to quit[0m
+2025-04-10 04:08:01,626 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:08:01,879 -  * Debugger is active!
+2025-04-10 04:08:01,884 -  * Debugger PIN: 280-917-294
+2025-04-10 04:08:03,429 - 127.0.0.1 - - [10/Apr/2025 04:08:03] "GET / HTTP/1.1" 200 -
+2025-04-10 04:08:03,434 - 127.0.0.1 - - [10/Apr/2025 04:08:03] "GET / HTTP/1.1" 200 -
+2025-04-10 04:08:03,676 - 127.0.0.1 - - [10/Apr/2025 04:08:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 04:08:05,923 - \U0001f7e2 Streamlit dashboard requested
+2025-04-10 04:08:05,936 - 127.0.0.1 - - [10/Apr/2025 04:08:05] "GET /dashboard HTTP/1.1" 200 -
+2025-04-10 04:09:51,792 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\platform.py', reloading
+2025-04-10 04:09:52,241 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:09:52,474 -  * Debugger is active!
+2025-04-10 04:09:52,480 -  * Debugger PIN: 280-917-294
+2025-04-10 04:09:52,767 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:09:52,778 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:09:52,779 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:09:53,871 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:09:54,129 -  * Debugger is active!
+2025-04-10 04:09:54,135 -  * Debugger PIN: 280-917-294
+2025-04-10 04:09:54,232 - 127.0.0.1 - - [10/Apr/2025 04:09:54] "GET / HTTP/1.1" 200 -
+2025-04-10 04:09:54,488 - 127.0.0.1 - - [10/Apr/2025 04:09:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 04:09:55,086 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:09:55,087 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:09:55,476 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:09:55,715 -  * Debugger is active!
+2025-04-10 04:09:55,719 -  * Debugger PIN: 280-917-294
+2025-04-10 04:09:55,744 - 127.0.0.1 - - [10/Apr/2025 04:09:55] "GET / HTTP/1.1" 200 -
+2025-04-10 04:09:56,043 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:09:57,077 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:09:57,326 -  * Debugger is active!
+2025-04-10 04:09:57,330 -  * Debugger PIN: 280-917-294
+2025-04-10 04:09:57,353 - 127.0.0.1 - - [10/Apr/2025 04:09:57] "GET / HTTP/1.1" 200 -
+2025-04-10 04:09:58,758 - 127.0.0.1 - - [10/Apr/2025 04:09:58] "GET / HTTP/1.1" 200 -
+2025-04-10 04:09:59,903 - \U0001f7e2 Streamlit dashboard requested
+2025-04-10 04:10:01,982 - 127.0.0.1 - - [10/Apr/2025 04:10:01] "GET /dashboard HTTP/1.1" 200 -
+2025-04-10 04:10:37,492 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:10:37,503 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:10:37,505 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:10:38,492 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:10:38,869 -  * Debugger is active!
+2025-04-10 04:10:38,874 -  * Debugger PIN: 280-917-294
+2025-04-10 04:10:49,306 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 04:10:49,306 - [33mPress CTRL+C to quit[0m
+2025-04-10 04:10:49,319 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:10:49,561 -  * Debugger is active!
+2025-04-10 04:10:49,567 -  * Debugger PIN: 280-917-294
+2025-04-10 04:10:51,105 - 127.0.0.1 - - [10/Apr/2025 04:10:51] "GET / HTTP/1.1" 200 -
+2025-04-10 04:10:51,109 - 127.0.0.1 - - [10/Apr/2025 04:10:51] "GET / HTTP/1.1" 200 -
+2025-04-10 04:10:51,343 - 127.0.0.1 - - [10/Apr/2025 04:10:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 04:10:54,008 - \U0001f7e2 Streamlit dashboard requested
+2025-04-10 04:10:56,107 - 127.0.0.1 - - [10/Apr/2025 04:10:56] "GET /dashboard HTTP/1.1" 200 -
+2025-04-10 04:10:56,340 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\attendance_dashboard.py', reloading
+2025-04-10 04:10:56,671 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:10:56,904 -  * Debugger is active!
+2025-04-10 04:10:56,908 -  * Debugger PIN: 280-917-294
+2025-04-10 04:10:57,298 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\delta_generator.py', reloading
+2025-04-10 04:10:57,299 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\elements\\markdown.py', reloading
+2025-04-10 04:10:57,299 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\runtime\\metrics_util.py', reloading
+2025-04-10 04:10:58,278 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:10:58,538 -  * Debugger is active!
+2025-04-10 04:10:58,542 -  * Debugger PIN: 280-917-294
+2025-04-10 04:10:58,568 - 127.0.0.1 - - [10/Apr/2025 04:10:58] "GET / HTTP/1.1" 200 -
+2025-04-10 04:10:59,986 - 127.0.0.1 - - [10/Apr/2025 04:10:59] "GET / HTTP/1.1" 200 -
+2025-04-10 04:12:08,097 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 04:12:08,097 - [33mPress CTRL+C to quit[0m
+2025-04-10 04:12:08,105 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:12:08,332 -  * Debugger is active!
+2025-04-10 04:12:08,335 -  * Debugger PIN: 280-917-294
+2025-04-10 04:12:09,836 - 127.0.0.1 - - [10/Apr/2025 04:12:09] "GET / HTTP/1.1" 200 -
+2025-04-10 04:12:09,840 - 127.0.0.1 - - [10/Apr/2025 04:12:09] "GET / HTTP/1.1" 200 -
+2025-04-10 04:12:10,067 - 127.0.0.1 - - [10/Apr/2025 04:12:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 04:12:12,238 - \U0001f7e2 Streamlit dashboard requested
+2025-04-10 04:12:15,289 - 127.0.0.1 - - [10/Apr/2025 04:12:15] "GET /dashboard HTTP/1.1" 200 -
+2025-04-10 04:12:32,861 - 127.0.0.1 - - [10/Apr/2025 04:12:32] "GET / HTTP/1.1" 200 -
+2025-04-10 04:14:04,480 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 04:14:04,481 - [33mPress CTRL+C to quit[0m
+2025-04-10 04:14:04,489 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:14:04,730 -  * Debugger is active!
+2025-04-10 04:14:04,735 -  * Debugger PIN: 280-917-294
+2025-04-10 04:14:06,282 - 127.0.0.1 - - [10/Apr/2025 04:14:06] "GET / HTTP/1.1" 200 -
+2025-04-10 04:14:06,287 - 127.0.0.1 - - [10/Apr/2025 04:14:06] "GET / HTTP/1.1" 200 -
+2025-04-10 04:14:06,525 - 127.0.0.1 - - [10/Apr/2025 04:14:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 04:14:12,669 - \U0001f7e2 Streamlit dashboard requested
+2025-04-10 04:14:15,758 - 127.0.0.1 - - [10/Apr/2025 04:14:15] "GET /dashboard HTTP/1.1" 200 -
+2025-04-10 04:14:17,112 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cv2\\config.py', reloading
+2025-04-10 04:14:17,113 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cv2\\config-3.py', reloading
+2025-04-10 04:14:17,857 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:14:18,084 -  * Debugger is active!
+2025-04-10 04:14:18,088 -  * Debugger PIN: 280-917-294
+2025-04-10 04:14:19,481 - 127.0.0.1 - - [10/Apr/2025 04:14:19] "GET / HTTP/1.1" 200 -
+2025-04-10 04:14:35,659 - 127.0.0.1 - - [10/Apr/2025 04:14:35] "GET / HTTP/1.1" 200 -
+2025-04-10 04:16:17,572 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 04:16:17,573 - [33mPress CTRL+C to quit[0m
+2025-04-10 04:16:17,585 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:16:17,825 -  * Debugger is active!
+2025-04-10 04:16:17,830 -  * Debugger PIN: 280-917-294
+2025-04-10 04:16:19,025 - 127.0.0.1 - - [10/Apr/2025 04:16:19] "GET / HTTP/1.1" 200 -
+2025-04-10 04:16:19,217 - 127.0.0.1 - - [10/Apr/2025 04:16:19] "GET / HTTP/1.1" 200 -
+2025-04-10 04:16:25,750 - \U0001f7e2 Streamlit dashboard requested
+2025-04-10 04:16:27,830 - 127.0.0.1 - - [10/Apr/2025 04:16:27] "GET /dashboard HTTP/1.1" 200 -
+2025-04-10 04:16:36,760 - 127.0.0.1 - - [10/Apr/2025 04:16:36] "GET / HTTP/1.1" 200 -
+2025-04-10 04:17:52,190 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 04:17:52,191 - [33mPress CTRL+C to quit[0m
+2025-04-10 04:17:52,201 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:17:52,438 -  * Debugger is active!
+2025-04-10 04:17:52,442 -  * Debugger PIN: 280-917-294
+2025-04-10 04:17:54,063 - 127.0.0.1 - - [10/Apr/2025 04:17:54] "GET / HTTP/1.1" 200 -
+2025-04-10 04:17:54,067 - 127.0.0.1 - - [10/Apr/2025 04:17:54] "GET / HTTP/1.1" 200 -
+2025-04-10 04:17:54,304 - 127.0.0.1 - - [10/Apr/2025 04:17:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 04:19:31,996 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 04:19:31,996 - [33mPress CTRL+C to quit[0m
+2025-04-10 04:19:32,003 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:19:32,218 -  * Debugger is active!
+2025-04-10 04:19:32,221 -  * Debugger PIN: 280-917-294
+2025-04-10 04:19:33,725 - 127.0.0.1 - - [10/Apr/2025 04:19:33] "GET / HTTP/1.1" 200 -
+2025-04-10 04:19:33,728 - 127.0.0.1 - - [10/Apr/2025 04:19:33] "GET / HTTP/1.1" 200 -
+2025-04-10 04:19:33,971 - 127.0.0.1 - - [10/Apr/2025 04:19:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 04:19:43,975 - \U0001f7e2 Streamlit dashboard requested
+2025-04-10 04:19:46,066 - 127.0.0.1 - - [10/Apr/2025 04:19:46] "GET /dashboard HTTP/1.1" 200 -
+2025-04-10 04:19:52,496 - 127.0.0.1 - - [10/Apr/2025 04:19:52] "GET / HTTP/1.1" 200 -
+2025-04-10 04:21:21,665 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 04:21:21,666 - [33mPress CTRL+C to quit[0m
+2025-04-10 04:21:21,679 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:21:21,935 -  * Debugger is active!
+2025-04-10 04:21:21,941 -  * Debugger PIN: 280-917-294
+2025-04-10 04:21:23,070 - 127.0.0.1 - - [10/Apr/2025 04:21:23] "GET / HTTP/1.1" 200 -
+2025-04-10 04:21:23,321 - 127.0.0.1 - - [10/Apr/2025 04:21:23] "GET / HTTP/1.1" 200 -
+2025-04-10 04:22:51,399 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:22:51,408 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:22:51,411 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:22:57,394 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 04:22:57,395 - [33mPress CTRL+C to quit[0m
+2025-04-10 04:22:57,406 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:22:57,801 -  * Debugger is active!
+2025-04-10 04:22:57,814 -  * Debugger PIN: 280-917-294
+2025-04-10 04:22:59,075 - 127.0.0.1 - - [10/Apr/2025 04:22:59] "GET / HTTP/1.1" 200 -
+2025-04-10 04:22:59,288 - 127.0.0.1 - - [10/Apr/2025 04:22:59] "GET / HTTP/1.1" 200 -
+2025-04-10 04:23:59,849 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:23:59,851 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:24:00,240 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:24:00,611 -  * Debugger is active!
+2025-04-10 04:24:00,619 -  * Debugger PIN: 280-917-294
+2025-04-10 04:24:02,092 - 127.0.0.1 - - [10/Apr/2025 04:24:02] "GET / HTTP/1.1" 200 -
+2025-04-10 04:24:25,985 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:24:26,038 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:24:26,981 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:24:27,418 -  * Debugger is active!
+2025-04-10 04:24:27,424 -  * Debugger PIN: 280-917-294
+2025-04-10 04:24:29,284 - 127.0.0.1 - - [10/Apr/2025 04:24:29] "GET / HTTP/1.1" 200 -
+2025-04-10 04:24:45,359 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:24:45,611 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:24:46,003 -  * Debugger is active!
+2025-04-10 04:24:46,012 -  * Debugger PIN: 280-917-294
+2025-04-10 04:24:47,999 - 127.0.0.1 - - [10/Apr/2025 04:24:47] "GET / HTTP/1.1" 200 -
+2025-04-10 04:24:48,372 - 127.0.0.1 - - [10/Apr/2025 04:24:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 04:26:17,143 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 04:26:17,144 - [33mPress CTRL+C to quit[0m
+2025-04-10 04:26:17,155 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:26:17,490 -  * Debugger is active!
+2025-04-10 04:26:17,495 -  * Debugger PIN: 280-917-294
+2025-04-10 04:26:19,219 - 127.0.0.1 - - [10/Apr/2025 04:26:19] "GET / HTTP/1.1" 200 -
+2025-04-10 04:26:19,403 - 127.0.0.1 - - [10/Apr/2025 04:26:19] "GET / HTTP/1.1" 200 -
+2025-04-10 04:26:19,642 - 127.0.0.1 - - [10/Apr/2025 04:26:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 04:27:58,214 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 04:27:58,214 - [33mPress CTRL+C to quit[0m
+2025-04-10 04:27:58,227 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:27:58,594 -  * Debugger is active!
+2025-04-10 04:27:58,600 -  * Debugger PIN: 280-917-294
+2025-04-10 04:27:59,723 - 127.0.0.1 - - [10/Apr/2025 04:27:59] "GET / HTTP/1.1" 200 -
+2025-04-10 04:28:00,057 - 127.0.0.1 - - [10/Apr/2025 04:28:00] "GET / HTTP/1.1" 200 -
+2025-04-10 04:28:12,545 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:28:12,547 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:28:12,805 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:28:13,166 -  * Debugger is active!
+2025-04-10 04:28:13,172 -  * Debugger PIN: 280-917-294
+2025-04-10 04:28:14,863 - 127.0.0.1 - - [10/Apr/2025 04:28:14] "GET / HTTP/1.1" 200 -
+2025-04-10 04:28:15,009 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:28:15,010 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:28:15,259 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:28:15,627 -  * Debugger is active!
+2025-04-10 04:28:15,634 -  * Debugger PIN: 280-917-294
+2025-04-10 04:28:16,014 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:28:17,076 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:28:17,583 -  * Debugger is active!
+2025-04-10 04:28:17,590 -  * Debugger PIN: 280-917-294
+2025-04-10 04:28:17,628 - 127.0.0.1 - - [10/Apr/2025 04:28:17] "GET / HTTP/1.1" 200 -
+2025-04-10 04:28:19,082 - 127.0.0.1 - - [10/Apr/2025 04:28:19] "GET / HTTP/1.1" 200 -
+2025-04-10 04:28:52,996 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 04:28:52,997 - [33mPress CTRL+C to quit[0m
+2025-04-10 04:28:53,008 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:28:53,339 -  * Debugger is active!
+2025-04-10 04:28:53,344 -  * Debugger PIN: 280-917-294
+2025-04-10 04:28:54,975 - 127.0.0.1 - - [10/Apr/2025 04:28:54] "GET / HTTP/1.1" 200 -
+2025-04-10 04:28:55,466 - 127.0.0.1 - - [10/Apr/2025 04:28:55] "GET / HTTP/1.1" 200 -
+2025-04-10 04:28:55,546 - 127.0.0.1 - - [10/Apr/2025 04:28:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 04:28:57,906 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:28:57,907 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:28:58,449 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:28:58,912 -  * Debugger is active!
+2025-04-10 04:28:58,919 -  * Debugger PIN: 280-917-294
+2025-04-10 04:29:00,433 - 127.0.0.1 - - [10/Apr/2025 04:29:00] "GET / HTTP/1.1" 200 -
+2025-04-10 04:29:31,826 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 04:29:31,826 - [33mPress CTRL+C to quit[0m
+2025-04-10 04:29:31,838 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:29:32,184 -  * Debugger is active!
+2025-04-10 04:29:32,189 -  * Debugger PIN: 280-917-294
+2025-04-10 04:29:33,784 - 127.0.0.1 - - [10/Apr/2025 04:29:33] "GET / HTTP/1.1" 200 -
+2025-04-10 04:29:34,212 - 127.0.0.1 - - [10/Apr/2025 04:29:34] "GET / HTTP/1.1" 200 -
+2025-04-10 04:29:34,247 - 127.0.0.1 - - [10/Apr/2025 04:29:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 04:29:53,775 - \U0001f7e2 Streamlit dashboard requested
+2025-04-10 04:29:55,842 - 127.0.0.1 - - [10/Apr/2025 04:29:55] "GET /dashboard HTTP/1.1" 200 -
+2025-04-10 04:30:05,149 - 127.0.0.1 - - [10/Apr/2025 04:30:05] "GET / HTTP/1.1" 200 -
+2025-04-10 04:30:06,409 - 127.0.0.1 - - [10/Apr/2025 04:30:06] "GET /about HTTP/1.1" 200 -
+2025-04-10 04:30:11,109 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-10 04:30:11,396 - 127.0.0.1 - - [10/Apr/2025 04:30:11] "GET / HTTP/1.1" 200 -
+2025-04-10 04:30:11,507 -  * Restarting with watchdog (windowsapi)
+2025-04-10 04:30:11,839 -  * Debugger is active!
+2025-04-10 04:30:11,844 -  * Debugger PIN: 280-917-294
+2025-04-10 04:30:13,322 - 127.0.0.1 - - [10/Apr/2025 04:30:13] "GET / HTTP/1.1" 200 -
+2025-04-10 04:30:19,066 - 127.0.0.1 - - [10/Apr/2025 04:30:19] "GET / HTTP/1.1" 200 -
+2025-04-10 04:30:19,759 - 127.0.0.1 - - [10/Apr/2025 04:30:19] "GET / HTTP/1.1" 200 -
+2025-04-10 13:58:33,885 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 13:58:33,887 - [33mPress CTRL+C to quit[0m
+2025-04-10 13:58:33,906 -  * Restarting with watchdog (windowsapi)
+2025-04-10 13:58:34,237 -  * Debugger is active!
+2025-04-10 13:58:34,254 -  * Debugger PIN: 102-376-531
+2025-04-10 13:58:36,334 - 127.0.0.1 - - [10/Apr/2025 13:58:36] "GET / HTTP/1.1" 200 -
+2025-04-10 13:58:36,339 - 127.0.0.1 - - [10/Apr/2025 13:58:36] "GET / HTTP/1.1" 200 -
+2025-04-10 13:58:36,596 - 127.0.0.1 - - [10/Apr/2025 13:58:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 13:58:42,466 - \U0001f7e2 Streamlit dashboard requested
+2025-04-10 13:58:44,704 - 127.0.0.1 - - [10/Apr/2025 13:58:44] "GET /dashboard HTTP/1.1" 200 -
+2025-04-10 13:58:55,036 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\core.py', reloading
+2025-04-10 13:58:55,719 -  * Restarting with watchdog (windowsapi)
+2025-04-10 13:58:56,096 -  * Debugger is active!
+2025-04-10 13:58:56,102 -  * Debugger PIN: 102-376-531
+2025-04-10 13:58:57,632 - 127.0.0.1 - - [10/Apr/2025 13:58:57] "GET / HTTP/1.1" 200 -
+2025-04-10 13:58:57,725 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\env_util.py', reloading
+2025-04-10 13:58:57,729 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\delta_generator.py', reloading
+2025-04-10 13:58:57,731 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\elements\\markdown.py', reloading
+2025-04-10 13:58:57,734 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\runtime\\metrics_util.py', reloading
+2025-04-10 13:58:57,744 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\script_runner.py', reloading
+2025-04-10 13:58:57,745 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\exec_code.py', reloading
+2025-04-10 13:58:58,191 -  * Restarting with watchdog (windowsapi)
+2025-04-10 13:58:58,526 -  * Debugger is active!
+2025-04-10 13:58:58,530 -  * Debugger PIN: 102-376-531
+2025-04-10 13:59:00,220 - 127.0.0.1 - - [10/Apr/2025 13:59:00] "GET / HTTP/1.1" 200 -
+2025-04-10 14:00:15,108 - \U0001f7e2 Start Recognition button clicked
+2025-04-10 14:00:15,186 - 127.0.0.1 - - [10/Apr/2025 14:00:15] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-10 14:00:15,193 - 127.0.0.1 - - [10/Apr/2025 14:00:15] "GET / HTTP/1.1" 200 -
+2025-04-10 14:01:37,342 - \U0001f7e2 Start Recognition button clicked
+2025-04-10 14:01:37,495 - 127.0.0.1 - - [10/Apr/2025 14:01:37] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-10 14:01:37,502 - 127.0.0.1 - - [10/Apr/2025 14:01:37] "GET / HTTP/1.1" 200 -
+2025-04-10 14:03:08,464 - \U0001f7e2 Start Recognition button clicked
+2025-04-10 14:03:08,930 - 127.0.0.1 - - [10/Apr/2025 14:03:08] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-10 14:03:08,952 - 127.0.0.1 - - [10/Apr/2025 14:03:08] "GET / HTTP/1.1" 200 -
+2025-04-10 14:19:31,328 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 14:19:31,329 - [33mPress CTRL+C to quit[0m
+2025-04-10 14:19:31,342 -  * Restarting with watchdog (windowsapi)
+2025-04-10 14:19:31,720 -  * Debugger is active!
+2025-04-10 14:19:31,725 -  * Debugger PIN: 114-126-141
+2025-04-10 14:19:32,826 - 127.0.0.1 - - [10/Apr/2025 14:19:32] "GET / HTTP/1.1" 200 -
+2025-04-10 14:19:33,085 - 127.0.0.1 - - [10/Apr/2025 14:19:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 14:19:33,162 - 127.0.0.1 - - [10/Apr/2025 14:19:33] "GET / HTTP/1.1" 200 -
+2025-04-10 14:19:38,455 - \U0001f7e2 Start Recognition button clicked
+2025-04-10 14:19:38,610 - 127.0.0.1 - - [10/Apr/2025 14:19:38] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-10 14:19:38,623 - 127.0.0.1 - - [10/Apr/2025 14:19:38] "GET / HTTP/1.1" 200 -
+2025-04-10 16:19:51,375 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 16:19:51,376 - [33mPress CTRL+C to quit[0m
+2025-04-10 16:19:51,389 -  * Restarting with watchdog (windowsapi)
+2025-04-10 16:19:51,730 -  * Debugger is active!
+2025-04-10 16:19:51,735 -  * Debugger PIN: 114-126-141
+2025-04-10 16:19:53,441 - 127.0.0.1 - - [10/Apr/2025 16:19:53] "GET / HTTP/1.1" 200 -
+2025-04-10 16:19:53,529 - 127.0.0.1 - - [10/Apr/2025 16:19:53] "GET / HTTP/1.1" 200 -
+2025-04-10 16:19:53,797 - 127.0.0.1 - - [10/Apr/2025 16:19:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 16:20:05,197 - \U0001f7e2 Streamlit dashboard requested
+2025-04-10 16:20:07,838 - 127.0.0.1 - - [10/Apr/2025 16:20:07] "GET /dashboard HTTP/1.1" 200 -
+2025-04-10 16:20:08,814 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\attendance_dashboard.py', reloading
+2025-04-10 16:20:09,179 -  * Restarting with watchdog (windowsapi)
+2025-04-10 16:20:09,667 -  * Debugger is active!
+2025-04-10 16:20:09,673 -  * Debugger PIN: 114-126-141
+2025-04-10 16:20:10,070 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cv2\\config.py', reloading
+2025-04-10 16:20:10,071 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cv2\\config-3.py', reloading
+2025-04-10 16:20:10,525 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\env_util.py', reloading
+2025-04-10 16:20:10,526 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\delta_generator.py', reloading
+2025-04-10 16:20:10,527 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\elements\\markdown.py', reloading
+2025-04-10 16:20:10,528 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\runtime\\metrics_util.py', reloading
+2025-04-10 16:20:10,529 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\script_runner.py', reloading
+2025-04-10 16:20:10,530 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\exec_code.py', reloading
+2025-04-10 16:20:11,114 -  * Restarting with watchdog (windowsapi)
+2025-04-10 16:20:11,786 -  * Debugger is active!
+2025-04-10 16:20:11,791 -  * Debugger PIN: 114-126-141
+2025-04-10 16:20:11,872 - 127.0.0.1 - - [10/Apr/2025 16:20:11] "GET / HTTP/1.1" 200 -
+2025-04-10 16:20:13,241 - 127.0.0.1 - - [10/Apr/2025 16:20:13] "GET / HTTP/1.1" 200 -
+2025-04-10 16:21:38,598 - \U0001f7e2 Start Recognition button clicked
+2025-04-10 16:21:38,635 - 127.0.0.1 - - [10/Apr/2025 16:21:38] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-10 16:21:38,645 - 127.0.0.1 - - [10/Apr/2025 16:21:38] "GET / HTTP/1.1" 200 -
+2025-04-10 16:21:39,500 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\version_11.0.py', reloading
+2025-04-10 16:21:40,579 -  * Restarting with watchdog (windowsapi)
+2025-04-10 16:21:41,015 -  * Debugger is active!
+2025-04-10 16:21:41,023 -  * Debugger PIN: 114-126-141
+2025-04-10 16:21:42,614 - 127.0.0.1 - - [10/Apr/2025 16:21:42] "GET / HTTP/1.1" 200 -
+2025-04-10 16:21:55,194 - \U0001f7e2 Start Recognition button clicked
+2025-04-10 16:21:55,243 - 127.0.0.1 - - [10/Apr/2025 16:21:55] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-10 16:21:55,249 - 127.0.0.1 - - [10/Apr/2025 16:21:55] "GET / HTTP/1.1" 200 -
+2025-04-10 16:23:47,044 - 127.0.0.1 - - [10/Apr/2025 16:23:47] "GET /about HTTP/1.1" 200 -
+2025-04-10 16:24:22,108 - \U0001f7e2 Start Recognition button clicked
+2025-04-10 16:24:22,345 - 127.0.0.1 - - [10/Apr/2025 16:24:22] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-10 16:24:22,368 - 127.0.0.1 - - [10/Apr/2025 16:24:22] "GET / HTTP/1.1" 200 -
+2025-04-10 16:26:29,363 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-10 16:26:29,365 - [33mPress CTRL+C to quit[0m
+2025-04-10 16:26:29,379 -  * Restarting with watchdog (windowsapi)
+2025-04-10 16:26:29,716 -  * Debugger is active!
+2025-04-10 16:26:29,722 -  * Debugger PIN: 114-126-141
+2025-04-10 16:26:31,423 - 127.0.0.1 - - [10/Apr/2025 16:26:31] "GET / HTTP/1.1" 200 -
+2025-04-10 16:26:31,543 - 127.0.0.1 - - [10/Apr/2025 16:26:31] "GET / HTTP/1.1" 200 -
+2025-04-10 16:26:31,825 - 127.0.0.1 - - [10/Apr/2025 16:26:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 16:26:34,392 - \U0001f7e2 Start Recognition button clicked
+2025-04-10 16:26:34,436 - 127.0.0.1 - - [10/Apr/2025 16:26:34] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-10 16:26:34,442 - 127.0.0.1 - - [10/Apr/2025 16:26:34] "GET / HTTP/1.1" 200 -
+2025-04-10 16:27:51,810 - \U0001f7e2 Start Recognition button clicked
+2025-04-10 16:27:51,966 - 127.0.0.1 - - [10/Apr/2025 16:27:51] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-10 16:27:51,975 - 127.0.0.1 - - [10/Apr/2025 16:27:51] "GET / HTTP/1.1" 200 -
+2025-04-10 16:29:25,303 - \U0001f7e2 Start Recognition button clicked
+2025-04-10 16:29:25,357 - 127.0.0.1 - - [10/Apr/2025 16:29:25] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-10 16:29:25,364 - 127.0.0.1 - - [10/Apr/2025 16:29:25] "GET / HTTP/1.1" 200 -
+2025-04-12 15:56:32,252 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-12 15:56:32,253 - [33mPress CTRL+C to quit[0m
+2025-04-12 15:56:32,268 -  * Restarting with watchdog (windowsapi)
+2025-04-12 15:56:32,506 -  * Debugger is active!
+2025-04-12 15:56:32,510 -  * Debugger PIN: 114-126-141
+2025-04-12 15:56:33,729 - 127.0.0.1 - - [12/Apr/2025 15:56:33] "GET / HTTP/1.1" 200 -
+2025-04-12 15:56:33,904 - 127.0.0.1 - - [12/Apr/2025 15:56:33] "GET / HTTP/1.1" 200 -
+2025-04-12 15:56:33,931 - 127.0.0.1 - - [12/Apr/2025 15:56:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-12 15:56:36,083 - \U0001f7e2 Streamlit dashboard requested
+2025-04-12 15:56:38,141 - 127.0.0.1 - - [12/Apr/2025 15:56:38] "GET /dashboard HTTP/1.1" 200 -
+2025-04-12 15:56:39,933 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\core.py', reloading
+2025-04-12 15:56:40,280 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cv2\\config.py', reloading
+2025-04-12 15:56:40,281 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cv2\\config-3.py', reloading
+2025-04-12 15:56:40,529 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\env_util.py', reloading
+2025-04-12 15:56:40,530 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\delta_generator.py', reloading
+2025-04-12 15:56:40,531 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\elements\\markdown.py', reloading
+2025-04-12 15:56:40,531 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\runtime\\metrics_util.py', reloading
+2025-04-12 15:56:40,532 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\script_runner.py', reloading
+2025-04-12 15:56:40,533 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\exec_code.py', reloading
+2025-04-12 15:56:40,533 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\threading.py', reloading
+2025-04-12 15:56:40,605 -  * Restarting with watchdog (windowsapi)
+2025-04-12 15:56:40,858 -  * Debugger is active!
+2025-04-12 15:56:40,862 -  * Debugger PIN: 114-126-141
+2025-04-12 15:56:42,319 - 127.0.0.1 - - [12/Apr/2025 15:56:42] "GET / HTTP/1.1" 200 -
+2025-04-19 12:59:45,503 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-19 12:59:45,504 - [33mPress CTRL+C to quit[0m
+2025-04-19 12:59:45,576 -  * Restarting with watchdog (windowsapi)
+2025-04-19 12:59:45,805 -  * Debugger is active!
+2025-04-19 12:59:45,823 -  * Debugger PIN: 116-145-074
+2025-04-19 23:21:28,518 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-19 23:21:28,519 - [33mPress CTRL+C to quit[0m
+2025-04-19 23:21:28,535 -  * Restarting with watchdog (windowsapi)
+2025-04-19 23:21:28,772 -  * Debugger is active!
+2025-04-19 23:21:28,790 -  * Debugger PIN: 116-145-074
+2025-04-19 23:21:30,431 - 127.0.0.1 - - [19/Apr/2025 23:21:30] "GET / HTTP/1.1" 200 -
+2025-04-19 23:21:30,434 - 127.0.0.1 - - [19/Apr/2025 23:21:30] "GET / HTTP/1.1" 200 -
+2025-04-19 23:21:30,666 - 127.0.0.1 - - [19/Apr/2025 23:21:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-19 23:21:35,035 - \U0001f7e2 Streamlit dashboard requested
+2025-04-19 23:21:37,117 - 127.0.0.1 - - [19/Apr/2025 23:21:37] "GET /dashboard HTTP/1.1" 200 -
+2025-04-19 23:21:37,664 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\attendance_dashboard.py', reloading
+2025-04-19 23:21:37,905 -  * Restarting with watchdog (windowsapi)
+2025-04-19 23:21:38,150 -  * Debugger is active!
+2025-04-19 23:21:38,155 -  * Debugger PIN: 116-145-074
+2025-04-19 23:21:38,588 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\core.py', reloading
+2025-04-19 23:21:38,894 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cv2\\config.py', reloading
+2025-04-19 23:21:38,895 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cv2\\config-3.py', reloading
+2025-04-19 23:21:39,157 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\env_util.py', reloading
+2025-04-19 23:21:39,158 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\delta_generator.py', reloading
+2025-04-19 23:21:39,159 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\elements\\markdown.py', reloading
+2025-04-19 23:21:39,159 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\runtime\\metrics_util.py', reloading
+2025-04-19 23:21:39,160 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\script_runner.py', reloading
+2025-04-19 23:21:39,161 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\exec_code.py', reloading
+2025-04-19 23:21:39,162 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\threading.py', reloading
+2025-04-19 23:21:39,526 -  * Restarting with watchdog (windowsapi)
+2025-04-19 23:21:39,778 -  * Debugger is active!
+2025-04-19 23:21:39,782 -  * Debugger PIN: 116-145-074
+2025-04-19 23:21:39,811 - 127.0.0.1 - - [19/Apr/2025 23:21:39] "GET / HTTP/1.1" 200 -
+2025-04-19 23:21:41,182 - 127.0.0.1 - - [19/Apr/2025 23:21:41] "GET / HTTP/1.1" 200 -
+2025-04-19 23:23:00,188 - 127.0.0.1 - - [19/Apr/2025 23:23:00] "GET / HTTP/1.1" 200 -
+2025-04-19 23:23:02,135 - 127.0.0.1 - - [19/Apr/2025 23:23:02] "GET /about HTTP/1.1" 200 -
+2025-04-19 23:23:08,680 - 127.0.0.1 - - [19/Apr/2025 23:23:08] "GET / HTTP/1.1" 200 -
+2025-04-19 23:23:10,122 - \U0001f7e2 Start Recognition button clicked
+2025-04-19 23:23:10,136 - 127.0.0.1 - - [19/Apr/2025 23:23:10] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-19 23:23:10,140 - 127.0.0.1 - - [19/Apr/2025 23:23:10] "GET / HTTP/1.1" 200 -
+2025-04-19 23:23:10,662 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\version_11.0.py', reloading
+2025-04-19 23:23:11,153 -  * Restarting with watchdog (windowsapi)
+2025-04-19 23:23:11,397 -  * Debugger is active!
+2025-04-19 23:23:11,402 -  * Debugger PIN: 116-145-074
+2025-04-19 23:23:12,849 - 127.0.0.1 - - [19/Apr/2025 23:23:12] "GET / HTTP/1.1" 200 -
+2025-04-19 23:24:16,406 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-19 23:24:16,409 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-19 23:24:16,410 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-19 23:24:16,641 -  * Restarting with watchdog (windowsapi)
+2025-04-19 23:24:16,889 -  * Debugger is active!
+2025-04-19 23:24:16,897 -  * Debugger PIN: 116-145-074
+2025-04-19 23:24:18,344 - 127.0.0.1 - - [19/Apr/2025 23:24:18] "GET / HTTP/1.1" 200 -
+2025-04-19 23:24:18,405 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-19 23:24:18,406 -  * Detected change in 'c:\\Users\\SUPRA\\OneDrive\\Desktop\\Face Detection Based Attendance\\app.py', reloading
+2025-04-19 23:24:18,966 -  * Restarting with watchdog (windowsapi)
+2025-04-19 23:24:19,318 -  * Debugger is active!
+2025-04-19 23:24:19,323 -  * Debugger PIN: 116-145-074
+2025-04-19 23:24:20,381 - \U0001f7e2 Start Recognition button clicked
+2025-04-19 23:24:20,394 - 127.0.0.1 - - [19/Apr/2025 23:24:20] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-19 23:24:20,401 - 127.0.0.1 - - [19/Apr/2025 23:24:20] "GET / HTTP/1.1" 200 -
+2025-04-19 23:24:20,741 - 127.0.0.1 - - [19/Apr/2025 23:24:20] "GET / HTTP/1.1" 200 -
+2025-04-19 23:28:45,856 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-19 23:28:45,856 - [33mPress CTRL+C to quit[0m
+2025-04-19 23:28:45,864 -  * Restarting with watchdog (windowsapi)
+2025-04-19 23:28:46,096 -  * Debugger is active!
+2025-04-19 23:28:46,101 -  * Debugger PIN: 116-145-074
+2025-04-19 23:28:47,663 - 127.0.0.1 - - [19/Apr/2025 23:28:47] "GET / HTTP/1.1" 200 -
+2025-04-19 23:28:47,667 - 127.0.0.1 - - [19/Apr/2025 23:28:47] "GET / HTTP/1.1" 200 -
+2025-04-19 23:28:47,895 - 127.0.0.1 - - [19/Apr/2025 23:28:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-19 23:28:50,289 - \U0001f7e2 Streamlit dashboard requested
+2025-04-19 23:28:52,356 - 127.0.0.1 - - [19/Apr/2025 23:28:52] "GET /dashboard HTTP/1.1" 200 -
+2025-04-19 23:29:04,354 - 127.0.0.1 - - [19/Apr/2025 23:29:04] "GET / HTTP/1.1" 200 -
+2025-04-19 23:29:05,698 - \U0001f7e2 Start Recognition button clicked
+2025-04-19 23:29:05,715 - 127.0.0.1 - - [19/Apr/2025 23:29:05] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-19 23:29:05,724 - 127.0.0.1 - - [19/Apr/2025 23:29:05] "GET / HTTP/1.1" 200 -
+2025-04-19 23:30:03,468 - \U0001f7e2 Start Recognition button clicked
+2025-04-19 23:30:03,520 - 127.0.0.1 - - [19/Apr/2025 23:30:03] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-19 23:30:03,528 - 127.0.0.1 - - [19/Apr/2025 23:30:03] "GET / HTTP/1.1" 200 -
+2025-04-25 20:11:36,515 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-25 20:11:36,515 - [33mPress CTRL+C to quit[0m
+2025-04-25 20:11:36,532 -  * Restarting with watchdog (windowsapi)
+2025-04-25 20:11:36,796 -  * Debugger is active!
+2025-04-25 20:11:36,802 -  * Debugger PIN: 135-019-405
+2025-04-25 20:11:38,345 - 127.0.0.1 - - [25/Apr/2025 20:11:38] "GET / HTTP/1.1" 200 -
+2025-04-25 20:11:38,349 - 127.0.0.1 - - [25/Apr/2025 20:11:38] "GET / HTTP/1.1" 200 -
+2025-04-25 20:11:38,619 - 127.0.0.1 - - [25/Apr/2025 20:11:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-25 20:11:45,741 - \U0001f7e2 Start Recognition button clicked
+2025-04-25 20:11:45,755 - 127.0.0.1 - - [25/Apr/2025 20:11:45] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-04-25 20:11:45,761 - 127.0.0.1 - - [25/Apr/2025 20:11:45] "GET / HTTP/1.1" 200 -
+2025-04-25 20:11:46,724 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cv2\\config.py', reloading
+2025-04-25 20:11:46,726 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cv2\\config-3.py', reloading
+2025-04-25 20:11:46,947 -  * Restarting with watchdog (windowsapi)
+2025-04-25 20:11:47,199 -  * Debugger is active!
+2025-04-25 20:11:47,203 -  * Debugger PIN: 135-019-405
+2025-04-25 20:11:48,643 - 127.0.0.1 - - [25/Apr/2025 20:11:48] "GET / HTTP/1.1" 200 -
+2025-04-25 20:12:26,505 - \U0001f7e2 Streamlit dashboard requested
+2025-04-25 20:12:28,943 - 127.0.0.1 - - [25/Apr/2025 20:12:28] "GET /dashboard HTTP/1.1" 200 -
+2025-04-25 20:12:31,242 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\env_util.py', reloading
+2025-04-25 20:12:31,243 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\delta_generator.py', reloading
+2025-04-25 20:12:31,244 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\elements\\markdown.py', reloading
+2025-04-25 20:12:31,245 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\runtime\\metrics_util.py', reloading
+2025-04-25 20:12:31,245 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\script_runner.py', reloading
+2025-04-25 20:12:31,246 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\exec_code.py', reloading
+2025-04-25 20:12:31,394 -  * Restarting with watchdog (windowsapi)
+2025-04-25 20:12:31,641 -  * Debugger is active!
+2025-04-25 20:12:31,645 -  * Debugger PIN: 135-019-405
+2025-04-25 20:12:33,095 - 127.0.0.1 - - [25/Apr/2025 20:12:33] "GET / HTTP/1.1" 200 -
+2025-04-25 20:45:59,496 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-25 20:45:59,497 - [33mPress CTRL+C to quit[0m
+2025-04-25 20:45:59,505 -  * Restarting with watchdog (windowsapi)
+2025-04-25 20:45:59,752 -  * Debugger is active!
+2025-04-25 20:45:59,756 -  * Debugger PIN: 135-019-405
+2025-04-25 20:46:00,971 - 127.0.0.1 - - [25/Apr/2025 20:46:00] "GET / HTTP/1.1" 200 -
+2025-04-25 20:46:01,153 - 127.0.0.1 - - [25/Apr/2025 20:46:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-25 20:46:01,195 - 127.0.0.1 - - [25/Apr/2025 20:46:01] "GET / HTTP/1.1" 200 -
+2025-04-25 20:55:23,989 - \U0001f7e2 Streamlit dashboard requested
+2025-04-25 20:55:26,098 - 127.0.0.1 - - [25/Apr/2025 20:55:26] "GET /dashboard HTTP/1.1" 200 -
+2025-05-12 19:53:38,079 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-05-12 19:53:38,079 - [33mPress CTRL+C to quit[0m
+2025-05-12 19:53:38,093 -  * Restarting with watchdog (windowsapi)
+2025-05-12 19:53:38,495 -  * Debugger is active!
+2025-05-12 19:53:38,507 -  * Debugger PIN: 748-669-075
+2025-05-12 19:53:40,158 - 127.0.0.1 - - [12/May/2025 19:53:40] "GET / HTTP/1.1" 200 -
+2025-05-12 19:53:40,359 - 127.0.0.1 - - [12/May/2025 19:53:40] "GET / HTTP/1.1" 200 -
+2025-05-12 19:53:40,856 - 127.0.0.1 - - [12/May/2025 19:53:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-12 19:53:43,088 - \U0001f7e2 Start Recognition button clicked
+2025-05-12 19:53:43,101 - 127.0.0.1 - - [12/May/2025 19:53:43] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-05-12 19:53:43,109 - 127.0.0.1 - - [12/May/2025 19:53:43] "GET / HTTP/1.1" 200 -
+2025-05-12 19:54:01,101 - \U0001f7e2 Start Recognition button clicked
+2025-05-12 19:54:01,125 - 127.0.0.1 - - [12/May/2025 19:54:01] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-05-12 19:54:01,133 - 127.0.0.1 - - [12/May/2025 19:54:01] "GET / HTTP/1.1" 200 -
+2025-05-12 19:55:02,081 -  * Detected change in 'c:\\Users\\SUPRA\\Downloads\\MACHINE LEARNING\\Projects\\ML Projects\\Face Detection Based Attendance\\app.py', reloading
+2025-05-12 19:55:02,085 -  * Detected change in 'c:\\Users\\SUPRA\\Downloads\\MACHINE LEARNING\\Projects\\ML Projects\\Face Detection Based Attendance\\app.py', reloading
+2025-05-12 19:55:02,204 -  * Restarting with watchdog (windowsapi)
+2025-05-12 19:55:02,523 -  * Debugger is active!
+2025-05-12 19:55:02,530 -  * Debugger PIN: 748-669-075
+2025-05-12 19:55:04,190 - 127.0.0.1 - - [12/May/2025 19:55:04] "GET / HTTP/1.1" 200 -
+2025-05-12 19:55:06,119 - \U0001f7e2 Start Recognition button clicked
+2025-05-12 19:55:06,135 - 127.0.0.1 - - [12/May/2025 19:55:06] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-05-12 19:55:06,141 - 127.0.0.1 - - [12/May/2025 19:55:06] "GET / HTTP/1.1" 200 -
+2025-05-12 19:55:46,364 - \U0001f7e2 Streamlit dashboard requested
+2025-05-12 19:55:49,584 - 127.0.0.1 - - [12/May/2025 19:55:49] "GET /dashboard HTTP/1.1" 200 -
+2025-05-12 19:55:59,113 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\env_util.py', reloading
+2025-05-12 19:55:59,123 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\script_runner.py', reloading
+2025-05-12 19:55:59,126 -  * Detected change in 'C:\\Users\\SUPRA\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\exec_code.py', reloading
+2025-05-12 19:56:00,179 -  * Restarting with watchdog (windowsapi)
+2025-05-12 19:56:00,602 -  * Debugger is active!
+2025-05-12 19:56:00,609 -  * Debugger PIN: 748-669-075
+2025-05-12 19:56:02,189 - 127.0.0.1 - - [12/May/2025 19:56:02] "GET / HTTP/1.1" 200 -
+2025-05-12 19:56:48,369 - \U0001f7e2 Start Recognition button clicked
+2025-05-12 19:56:48,383 - 127.0.0.1 - - [12/May/2025 19:56:48] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-05-12 19:56:48,389 - 127.0.0.1 - - [12/May/2025 19:56:48] "GET / HTTP/1.1" 200 -
+2025-05-12 19:57:40,944 - \U0001f7e2 Start Recognition button clicked
+2025-05-12 19:57:40,964 - 127.0.0.1 - - [12/May/2025 19:57:40] "[32mGET /start HTTP/1.1[0m" 302 -
+2025-05-12 19:57:40,972 - 127.0.0.1 - - [12/May/2025 19:57:40] "GET / HTTP/1.1" 200 -

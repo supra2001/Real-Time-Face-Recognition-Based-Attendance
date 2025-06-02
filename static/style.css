@@ -1,0 +1,70 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #121212;
+    color: #f1f1f1;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    font-weight: 700;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+    padding: 40px 20px;
+}
+
+button, .btn {
+    margin: 10px;
+    font-size: 18px;
+    padding: 12px 25px;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    box-shadow: 0 8px 16px rgba(0, 255, 200, 0.2);
+}
+
+.btn-primary {
+    background: linear-gradient(145deg, #00ffc3, #00aaff);
+    border: none;
+    color: #000;
+}
+
+.btn-success {
+    background: linear-gradient(145deg, #7fff00, #00d26a);
+    border: none;
+    color: #000;
+}
+
+.btn-info, .btn-warning, .btn-secondary {
+    border: none;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 255, 200, 0.3);
+}
+
+.list-group-item {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: #fff;
+}
+
+.list-group-item:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.footer {
+    background-color: #1a1a1a;
+    color: #ccc;
+    padding: 15px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.navbar {
+    box-shadow: 0 4px 20px rgba(0, 255, 255, 0.2);
+}

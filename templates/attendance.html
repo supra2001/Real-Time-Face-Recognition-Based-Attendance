@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Attendance Record</title>
+</head>
+<body>
+    <h2>Latest Attendance File:</h2>
+    {% if file %}
+        <p>{{ file }}</p>
+        <a href="{{ url_for('static', filename='../Attendance/' + file) }}" download>Download</a>
+    {% else %}
+        <p>No attendance records found.</p>
+    {% endif %}
+    <br><a href="/"><button>Go Home</button></a>
+</body>
+</html>

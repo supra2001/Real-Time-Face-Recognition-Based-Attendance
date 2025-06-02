@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About - Face Recognition</title>
+    <style>
+        body {
+            background-color: #222;
+            color: #eee;
+            font-family: Arial, sans-serif;
+            padding: 60px;
+            text-align: center;
+        }
+
+        h2 {
+            color: #00c853;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+
+        a {
+            color: #00e676;
+            text-decoration: none;
+            display: inline-block;
+            margin-top: 30px;
+            font-size: 18px;
+        }
+
+        a:hover {
+            color: #1de9b6;
+        }
+    </style>
+</head>
+<body>
+    <h2>About This Project</h2>
+    <p>
+        This is a real-time facial recognition-based attendance system built using OpenCV, Face Recognition, MySQL, and Flask.
+        <br><br>
+        It detects and identifies authorized students, logs their attendance, and prevents unauthorized access.
+    </p>
+    <a href="{{ url_for('home') }}">← Back to Home</a>
+</body>
+</html>
